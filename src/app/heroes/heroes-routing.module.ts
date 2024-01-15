@@ -30,7 +30,7 @@ const routes: Routes = [
       },
 
       {
-        path: 'lis',
+        path: 'list',
         component: ListPageComponent,
       },
 
